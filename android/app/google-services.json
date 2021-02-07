@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "531561579744",
+    "project_id": "mathlegends-7b1f9",
+    "storage_bucket": "mathlegends-7b1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531561579744:android:a947cb8dbd1f57675ffc85",
+        "android_client_info": {
+          "package_name": "com.questionaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531561579744-cgq4v5ap7kclm7q55h7oelugskrvcqmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiJTXNuxo0NaPCQkdmO73OjPBwI47-D_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531561579744-cgq4v5ap7kclm7q55h7oelugskrvcqmo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531561579744-be5eejvbb6a8ne8qobodlp97jk6r55r7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.demo.rn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
